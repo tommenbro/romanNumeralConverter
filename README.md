@@ -1,2 +1,4 @@
 # romanNumeralConverter
-Simple app that converts Arabic numerals to Roman numerals
+
+Minimalistic app that converts Arabic numbers to Roman numerals.
+Made with HTML, CSS & JS
